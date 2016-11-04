@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Baloo+Tamma");
+
+p {
+  font-family: Baloo Tamma;
+}
+
+body {
+    background-image: url("http://wallpapercave.com/wp/3WcqMYG.jpg");
+     background-size: cover;
+  min-width: 650px;
+}
