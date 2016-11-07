@@ -9,3 +9,13 @@ body {
      background-size: cover;
   min-width: 650px;
 }
+
+h1 {
+  font-size:8.5em;
+  font-color: black;
+}
+
+h2 {
+  font-size:6.5em;
+  font-color: black;
+}
